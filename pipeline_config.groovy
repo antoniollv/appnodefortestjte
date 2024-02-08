@@ -2,6 +2,6 @@ libraries {
     node
 }
 
-application_environments {
-    configServer = 'servidor de aplicaciones NodeJS'
+keywords {
+    configServer = 'el servidor de aplicaciones NodeJS'
 }
